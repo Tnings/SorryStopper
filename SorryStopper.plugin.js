@@ -4,6 +4,7 @@
  * @authorId 358429132272435210
  * @version 1.0.0
  * @description Warns you about apologizing
+ * @updateurl https://github.com/Tnings/SorryStopper
  */
 
 module.exports = (_ => {
